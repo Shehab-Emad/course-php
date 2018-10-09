@@ -8,7 +8,7 @@ This project had three parts:
 3. Back-End developed by **Pure PHP**
 
 ## For Getting Start
-Please, read READ ME.pdf first to know how to use it.
+Please, read **How to use.pdf** first.
 
 ## Project Request
 Develop E-Learning web application by using all the content which we took at the course.

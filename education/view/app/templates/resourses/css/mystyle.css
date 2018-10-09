@@ -1,0 +1,65 @@
+#searchbar{
+    width: 260px !important;
+    box-sizing: border-box !important;
+    border: 2px solid #ccc !important;
+    border-radius: 4px !important;
+    font-size: 16px !important;
+    background-color: white !important;
+    background-image: url('../img/searchicon.png') !important;
+    background-position: 10px 10px !important; 
+    background-repeat: no-repeat !important;
+    padding: 12px 20px 12px 40px !important;
+    transition: width 0.4s ease-in-out !important;
+}
+
+#searchbar:focus {
+    width: 100% !important;
+
+}
+
+.contact-form input,.contact-form textarea{
+    border: 1px gray solid
+}
+.myfooterbutton{
+    padding: 9px 16px;
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+    border-radius: 0;
+}
+
+.myfooterlist>li{
+    text-align: center;
+}
+
+.footer-follow li a {
+    display: inline-block;
+    width: 44px;
+    height: 42px;
+    line-height: 45px;
+    text-align: center;
+    border-radius: 3px;
+    background-color: #6195FF;
+    color: #FFF;
+}
+
+.error{
+    color: #ff7f7f;
+    font-size:15px;
+}
+input.error{
+    background-color: #ff7f7f;
+}
+input.valid{
+    background-color: lightgreen;
+}
+
+/* <!-- why choose us content SECTION --> */
+
+/* centering title and the blue underline */
+.section-header .title {
+    text-align: center;
+}
+.section-header .title:after {
+    margin: 20px auto 0px;
+}
